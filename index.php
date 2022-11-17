@@ -14,7 +14,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">ThapaTechnical</a>
+  <a class="navbar-brand" href="#">BIT CANTEEN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -25,13 +25,13 @@
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
         <li class="nav-item">
-        <a class="nav-link" href="#">Services</a>
+        <a class="nav-link" href="#">order</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="about.php">About</a>
       </li>
         <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="#">Google Ads</a>
       </li>
 
    
@@ -52,24 +52,24 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/cc1.jpg" alt="Los Angeles" width="1100" height="500">
+      <img src="images/GG7.jpg" alt="Los Angeles" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Los Angeles</h3>
-        <p>We had such a great time in LA!</p>
+        <h3>OHH PASTA</h3>
+        <p>Yummy</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/cc4.jpg" alt="Chicago" width="1100" height="500">
+      <img src="images/ff2.jpg" alt="Chicago" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
+        <h3>Burger</h3>
+        <p>enjoy the meal!</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/cc5.jpg" alt="New York" width="1100" height="500">
+      <img src="images/ff3.jpg" alt="New York" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
+        <h3>Pizza</h3>
+        <p>We love the Big pizzas!</p>
       </div>   
     </div>
   </div>
@@ -87,10 +87,10 @@
 	</div>
 	<div class="row mt-5">
 		<div class="col-lg-6 col-12">
-			<img src="images/cc3.jpg" class="img-fluid aboutimg" >
+			<img src="images/FF4.jpg" class="img-fluid aboutimg" >
 		</div>
 		<div class="col-lg-6 col-12">
-			<h2 class="display-4"> I am thapa technical. </h2>
+			<h2 class="display-4"> BIT CANTEEN. </h2>
 			<p class="py-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
@@ -101,37 +101,37 @@
 
 <section class="m-5">
 	<div class="pt-5">
-		<h2 class="text-center"> Our Services </h2>
+		<h2 class="text-center"> MENU CARD </h2>
 	</div>
 	<div class="mt-5 container-fluid">
 		<div class="row">
 			 <div class="col-lg-4 col-md-4 col-12">
 			 	<div class="card" >
-				  <img class="card-img-top" src="images/cc4.jpg" alt="Card image">
+				  <img class="card-img-top" src="images/ff5.jpg" alt="Card image">
 				  <div class="card-body">
-				    <h4 class="card-title">Beautiful Nature</h4>
-				    <p class="card-text">Some example text.</p>
-				    <a href="#" class="btn btn-primary">See Profile</a>
+				    <h4 class="card-title">CHILLI PAKODA</h4>
+				    <p class="card-text">Rs.500</p>
+				    <a href="#" class="btn btn-primary">Order Now</a>
 				  </div>
 				</div>
 			 </div>
 			  <div class="col-lg-4 col-md-4 col-12">
 			 	<div class="card" >
-				  <img class="card-img-top" src="images/cc4.jpg" alt="Card image">
+				  <img class="card-img-top" src="images/ff6.jpg" alt="Card image">
 				  <div class="card-body">
-				    <h4 class="card-title">Beautiful Nature</h4>
-				    <p class="card-text">Some example text.</p>
-				    <a href="#" class="btn btn-primary">See Profile</a>
+				    <h4 class="card-title">BUTTER SCOTH</h4>
+				    <p class="card-text">Rs.900</p>
+				    <a href="#" class="btn btn-primary">Order Now</a>
 				  </div>
 				</div>
 			 </div>
 			  <div class="col-lg-4 col-md-4 col-12">
 			 	<div class="card" >
-				  <img class="card-img-top" src="images/cc4.jpg" alt="Card image">
+				  <img class="card-img-top" src="images/ff7.jpg" alt="Card image">
 				  <div class="card-body">
-				    <h4 class="card-title">Beautiful Nature</h4>
-				    <p class="card-text">Some example text.</p>
-				    <a href="#" class="btn btn-primary">See Profile</a>
+				    <h4 class="card-title">MOCKTAIL</h4>
+				    <p class="card-text">Rs.150</p>
+				    <a href="#" class="btn btn-primary">Order Now</a>
 				  </div>
 				</div>
 			 </div>
@@ -143,28 +143,28 @@
 
 <section class="m-5">
 	<div class="pt-5">
-		<h2 class="text-center"> Gallery</h2>
+		<h2 class="text-center"> FOOD ITEMS</h2>
 	</div>
 	<div class="row mt-5">
 		<div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG1.jpg" class="img-fluid">
 		</div>
 		<div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/ff2.jpg" class="img-fluid">
 		</div><div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG3.jpg" class="img-fluid">
 		</div><div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG4.jpg" class="img-fluid">
 		</div><div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG5.jpg" class="img-fluid">
 		</div><div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG6.jpg" class="img-fluid">
 		</div><div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG7.jpg" class="img-fluid">
 		</div><div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG8.jpg" class="img-fluid">
 		</div><div class="col-lg-4 col-md-4 col-12  mb-4">
-			<img src="images/cc1.jpg" class="img-fluid">
+			<img src="images/GG9.jpg" class="img-fluid">
 		</div>
 	</div>
 </section>
@@ -172,7 +172,7 @@
 
 <section class="my-5">
 	<div class="pt-5">
-		<h1 class="text-center">  Contact Us </h1>
+		<h1 class="text-center">  CONTACT US </h1>
 	</div>
 
 	<div class="w-50 m-auto">
@@ -204,7 +204,7 @@
 
 <footer>
 	<div class=" bg-dark text-center text-capitalize">
-		<h5 class="py-3 text-white">@ThapatechnicalProduction</h5>
+		<h5 class="py-3 text-white">@BitCanteen</h5>
 	</div>
 </footer>
 
